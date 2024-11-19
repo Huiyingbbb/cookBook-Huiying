@@ -5,4 +5,5 @@
 This cookbook now contains the following recipes:
 
 - banana pancakes
+- Ramen soup
  
